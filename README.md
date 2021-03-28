@@ -10,21 +10,21 @@ Project title: ten project a
 
 Group members Name Student ID
 
-                        Vũ Trọng Phong            Studenn1285594
-                        Đỗ Trần Long              Student1287966
-                        Bùi Đại Long              Student1281546
-                        Lê Thành Ngọc Bích        Student1268354  
+                        Lê Ngân Tâm                Student1288146
+                        Nhuyễn Thị Anh Thư         Student1286315
+                        Huỳnh Minh Phát            Student1288148
+                        Phạm Duy Nhân              Student1275242 
 ============================
 
 eProject documentation at : https://github.com/lengantam0505/eProject/tree/main/Review
 
 ============================
 
-eProject published at 
+eProject published at : https://lengantam0505.github.io/eProject1/
 
 ============================
 
-eProject video published at 
+eProject video published at : link video
 
 ============================
 
