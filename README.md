@@ -16,7 +16,7 @@ Group members Name Student ID
                         Lê Thành Ngọc Bích        Student1268354  
 ============================
 
-eProject documentation at 
+eProject documentation at : https://github.com/lengantam0505/eProject/tree/main/Review
 
 ============================
 
