@@ -2,15 +2,15 @@ eProject T1.2011.M0-eProject-Group_5 Batch no.: T1.2011.M0
 
 CENTER NAME: ACE-HCMC-2-FPT
 
-Project title: ten project a
+Project title: Nail Art
 
 ========> Group 5 <=========
 
 4 collaborators:
 
-Group members Name Student ID
+Group members           Name                       Student ID
 
-                        Lê Ngân Tâm                Student1288146
+                        Lê Ngân Tâm (leader)       Student1288146
                         Nhuyễn Thị Anh Thư         Student1286315
                         Huỳnh Minh Phát            Student1288148
                         Phạm Duy Nhân              Student1275242 
@@ -24,7 +24,7 @@ eProject published at : https://lengantam0505.github.io/eProject1/
 
 ============================
 
-eProject video published at : link video
+eProject video published at : https://www.youtube.com/watch?v=DmyyazTGfVQ
 
 ============================
 
